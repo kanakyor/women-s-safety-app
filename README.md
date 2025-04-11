@@ -1,3 +1,5 @@
+Voice Shield – Women's Safety App
+
 Voice Shield is a Flutter-based mobile application designed to enhance women's safety through innovative features such as voice-activated emergency alerts, real-time GPS tracking, gesture detection, and biometric monitoring. The app allows users to discreetly signal for help during high-risk situations, ensuring immediate assistance from pre-selected contacts and local law enforcement.
 
 Project Status
